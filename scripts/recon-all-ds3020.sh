@@ -1,0 +1,16 @@
+nohup	/usr/local/freesurfer/bin/recon-all	-i	/home/ying/ds003020-download/sub-UTS01/ses-1/anat/sub-UTS01_ses-1_T1w.nii.gz	-s	UTS01	-cw256	-all	>>	UTS01.out	2>&1	&
+nohup	/usr/local/freesurfer/bin/recon-all	-i	/home/ying/ds003020-download/sub-UTS02/ses-1/anat/sub-UTS02_ses-1_T1w.nii.gz	-s	UTS02	-cw256	-all	>>	UTS02.out	2>&1	&
+nohup	/usr/local/freesurfer/bin/recon-all	-i	/home/ying/ds003020-download/sub-UTS03/ses-1/anat/sub-UTS03_ses-1_T1w.nii.gz	-s	UTS03	-cw256	-all	>>	UTS03.out	2>&1	&
+nohup	/usr/local/freesurfer/bin/recon-all	-i	/home/ying/ds003020-download/sub-UTS04/ses-1/anat/sub-UTS04_ses-1_T1w.nii.gz	-s	UTS04	-cw256	-all	>>	UTS04.out	2>&1	&
+nohup	/usr/local/freesurfer/bin/recon-all	-i	/home/ying/ds003020-download/sub-UTS05/ses-1/anat/sub-UTS05_ses-1_T1w.nii.gz	-s	UTS05	-cw256	-all	>>	UTS05.out	2>&1	&
+nohup	/usr/local/freesurfer/bin/recon-all	-i	/home/ying/ds003020-download/sub-UTS06/ses-1/anat/sub-UTS06_ses-1_T1w.nii.gz	-s	UTS06	-cw256	-all	>>	UTS06.out	2>&1	&
+nohup	/usr/local/freesurfer/bin/recon-all	-i	/home/ying/ds003020-download/sub-UTS07/ses-1/anat/sub-UTS07_ses-1_T1w.nii.gz	-s	UTS07	-cw256	-all	>>	UTS07.out	2>&1	&
+nohup	/usr/local/freesurfer/bin/recon-all	-i	/home/ying/ds003020-download/sub-UTS08/ses-1/anat/sub-UTS08_ses-1_T1w.nii.gz	-s	UTS08	-cw256	-all	>>	UTS08.out	2>&1	&
+#nohup	/usr/local/freesurfer/bin/recon-all	-i	/home/ying/project/pycortexProj/venv/share/pycortex/db/UTS01/anatomicals/raw.nii.gz			-s	UTS01	-cw256	-all	>>	UTS01.out	2>&1	&
+#nohup	/usr/local/freesurfer/bin/recon-all	-i	/home/ying/project/pycortexProj/venv/share/pycortex/db/UTS02/anatomicals/raw.nii.gz			-s	UTS02	-cw256	-all	>>	UTS02.out	2>&1	&
+#nohup	/usr/local/freesurfer/bin/recon-all	-i	/home/ying/project/pycortexProj/venv/share/pycortex/db/UTS03/anatomicals/raw.nii.gz			-s	UTS03	-cw256	-all	>>	UTS03.out	2>&1	&
+#nohup	/usr/local/freesurfer/bin/recon-all	-i	/home/ying/project/pycortexProj/venv/share/pycortex/db/UTS04/anatomicals/raw.nii.gz			-s	UTS04	-cw256	-all	>>	UTS04.out	2>&1	&
+#nohup	/usr/local/freesurfer/bin/recon-all	-i	/home/ying/project/pycortexProj/venv/share/pycortex/db/UTS05/anatomicals/raw.nii.gz			-s	UTS05	-cw256	-all	>>	UTS05.out	2>&1	&
+#nohup	/usr/local/freesurfer/bin/recon-all	-i	/home/ying/project/pycortexProj/venv/share/pycortex/db/UTS06/anatomicals/raw.nii.gz			-s	UTS06	-cw256	-all	>>	UTS06.out	2>&1	&
+#nohup	/usr/local/freesurfer/bin/recon-all	-i	/home/ying/project/pycortexProj/venv/share/pycortex/db/UTS07/anatomicals/raw.nii.gz			-s	UTS07	-cw256	-all	>>	UTS07.out	2>&1	&
+#nohup	/usr/local/freesurfer/bin/recon-all	-i	/home/ying/project/pycortexProj/venv/share/pycortex/db/UTS08/anatomicals/raw.nii.gz			-s	UTS08	-cw256	-all	>>	UTS08.out	2>&1	&
