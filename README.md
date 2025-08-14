@@ -1,4 +1,3 @@
 # pyCortexProject
 
-coming soon in 2508
-
+main code in ridgeRegression/
